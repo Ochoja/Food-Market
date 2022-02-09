@@ -1,6 +1,6 @@
 # food-market
 
-##Description
+## Description
 E-commerce site built with Vue 3
 
 ## Additional Dependencies
