@@ -1,24 +1,12 @@
 # food-market
 
-## Project setup
-```
-npm install
-```
+##Description
+E-commerce site built with Vue 3
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Additional Dependencies
+FontAwesome (https://github.com/FortAwesome/vue-fontawesome)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Contribution
+Feel free to fork and make contributions. I'm open to all pull requests
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
