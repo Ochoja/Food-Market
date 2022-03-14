@@ -58,6 +58,7 @@ li {
 a {
   text-decoration: none;
   color: rgb(250, 241, 241);
+  transition: all ease-out 0.3s;
 }
 
 a:hover {
